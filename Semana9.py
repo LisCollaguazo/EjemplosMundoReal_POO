@@ -1,3 +1,4 @@
+"class Producto: def init (self, id, nombre, cantidad, precio): self.id = id self.nombre = nombre self.cantidad = cantidad self.precio = precio"
 def get_id(self):
     return self.id
 
