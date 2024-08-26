@@ -124,4 +124,4 @@ while True:
         inventario.agregar_producto(producto)
     elif opcion == "2":
         id = input("Ingrese el ID del producto a eliminar: ")
-        inventario.eliminar_producto(id
+        inventario.eliminar_producto(id)
